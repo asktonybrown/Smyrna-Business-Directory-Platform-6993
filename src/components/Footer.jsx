@@ -64,13 +64,13 @@ const Footer = () => {
             <div className="space-y-2 text-sm">
               <div className="flex items-center space-x-2">
                 <SafeIcon icon={FiMail} className="w-4 h-4 text-primary-400" />
-                <a href="mailto:support@smyrnaguide.com" className="text-neutral-300 hover:text-primary-400 transition-colors">
+                <a href="mailto:garyrenee_hill@bellsouth.net" className="text-neutral-300 hover:text-primary-400 transition-colors">
                   support@smyrnaguide.com
                 </a>
               </div>
               <div className="flex items-center space-x-2">
                 <SafeIcon icon={FiPhone} className="w-4 h-4 text-primary-400" />
-                <a href="tel:+1-770-555-0123" className="text-neutral-300 hover:text-primary-400 transition-colors">
+                <a href="tel:(770) 438-6961" className="text-neutral-300 hover:text-primary-400 transition-colors">
                   (770) 555-0123
                 </a>
               </div>
